@@ -4,17 +4,19 @@
 ![that-stanford-kid](https://github-readme-stats.vercel.app/api/pin/?username=that-stanford-kid&repo=View-Profile-Complete-Check&cache_seconds=86400&theme=ocean_dark&show_icons=true)
 ### Projects / Portfolio:
  #### Languages:
-    Python 🐍 
-    R 🔴 
-    C++ 🌩️ 
-    C# #️⃣ 
-    Tesseract.js 🟠 
-    Node.js 🟢 
-    postgresql 🔵 
-    Javascript 🟡 
-    Bash 💲 
-    Linux ⚫ 
-    Ruby 💎 
+    Python 
+    R 
+    C++ 
+    C# #️ 
+    Tesseract.js 
+    Node.js 
+    postgresql  
+    Javascript 
+    Bash 
+    Linux 
+    Ruby
+    UML
+    PowerShell
  #### Focus: 
     Architecture, MLOps, Algorithms, Data Science, Solution Architecture, Backend Engineering
  #### Highlights: 
