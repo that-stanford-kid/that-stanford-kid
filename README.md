@@ -23,6 +23,7 @@
  #### Highlights: 
     Traveling Salesman Problem Solution with Stochatic Calculous in Python.
     Algorithmic Design Patterns.
+    Proprietary Tetris in JavaScript.
     Mathematical modeling, statistical and time based Models.
     Solution Oritented Engineering utilizing advanced and distinct methodologies.
 
