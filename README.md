@@ -7,14 +7,15 @@
     Python 
     R 
     C++ 
-    C# #️ 
+    C#
     Tesseract.js 
-    Node.js 
+    Node.js
     postgresql  
     Javascript 
     Bash 
     Linux 
     Ruby
+    XML
     UML
     PowerShell
  #### Focus: 
