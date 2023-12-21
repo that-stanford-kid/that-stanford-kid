@@ -1,7 +1,37 @@
 ## that-stanford-kid/View-Profile-Complete-Check/
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=that-stanford-kid&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+![that-stanford-kid](https://github-readme-stats.vercel.app/api/pin/?username=that-stanford-kid&repo=View-Profile-Complete-Check&cache_seconds=86400&theme=chartreuse-dark&show_icons=true)
 
 
-![that-stanford-kid](https://github-readme-stats.vercel.app/api/pin/?username=that-stanford-kid&repo=View-Profile-Complete-Check&cache_seconds=86400&theme=ocean_dark&show_icons=true)
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohio Street Beach View Area",
+        "description": "A broader view area around Ohio Street Beach in Chicago."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.6353, 41.9036], 
+            [-87.5953, 41.9036], 
+            [-87.5953, 41.8836],
+            [-87.6353, 41.8836],
+            [-87.6353, 41.9036]  
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+
 ### Projects / Portfolio:
  #### Languages:
     Python 
